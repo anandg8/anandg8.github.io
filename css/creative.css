@@ -157,7 +157,7 @@ header {
   background-position: center;
   background-image: url('../img/Stars.jpg');
   text-align: center;
-  color: white;
+  color: blue;
 }
 header .header-content {
   position: relative;
